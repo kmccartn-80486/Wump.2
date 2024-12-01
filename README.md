@@ -1,7 +1,7 @@
-This project includes the cpp source code and various ASCII art images for the game Wump.2. Game play instructions follow. Find a Let's Play and code intro at https://youtu.be/hexYrDQqmLA.
+This project includes the cpp source code and various ASCII art images for the game Wump.2. Developed on Solaris 11.4 and compiled with gcc. Premise derived from Hunt the Wumpus written in BASIC by Gregory Yob, 1973.
 
-Premise derived from Hunt the Wumpus written in BASIC by Gregory Yob, 1973.
- 
+Game play instructions follow. Find a Let's Play and code intro at https://youtu.be/hexYrDQqmLA.
+----- 
  Welcome to 'Wump.2' a pseudo successor to 'Hunt the Wumpus'! 
  The enemies live in a cave of multiple levels, each with 20 rooms. 
  Each room has 3 tunnels leading to other rooms. (Google "dodecahedron")
